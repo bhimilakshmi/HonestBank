@@ -1,0 +1,9 @@
+yfinance
+pandas
+pandas-datareader
+confluent-kafka
+python-dateutil
+numpy
+pymysql
+elasticsearch[async]==8.5
+pyspark
